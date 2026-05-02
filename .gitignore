@@ -6,3 +6,6 @@ build/
 .env
 *.log
 *.xlsx
+
+tests/__pycache__/
+*.pyc
